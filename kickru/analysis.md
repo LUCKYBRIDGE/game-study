@@ -1,5 +1,10 @@
 # Kickru 「벤치에서 발롱까지」 심층 분석
 
+> 개발 구현 관점의 상세 문서는 [Kickru 분석 인덱스](./README.md)에서 확인할 수 있다.
+>
+> 특히 실제 기술 문제와 해결 방식은 [problem-solving.md](./problem-solving.md), 아키텍처는 [technical-architecture.md](./technical-architecture.md)를 참고한다.
+
+
 - 대상: https://kickru.com/
 - 분석일: 2026-11-13
 - 유형: 브라우저 기반 싱글플레이 축구선수 커리어 시뮬레이션
